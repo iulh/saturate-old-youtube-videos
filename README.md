@@ -3,7 +3,7 @@ Saturates aged (3 years cap) YouTube videos
 
 ## Installation
 ### Install the Userscript
-  - [Userscript from GitHub]()
+  - [Userscript from GitHub](https://github.com/iulh/saturate-old-youtube-videos/raw/refs/heads/main/soytv.user.js)
 
 ### Install the Userscript Manager
   - [Violentmonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
